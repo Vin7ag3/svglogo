@@ -23,7 +23,7 @@ Build a Node.js command-line application that takes in user input to generate a 
 None
 
 ## Usage
-In the command-line use 'node js'  The application prompts the user to select a color and shape, provide text for the logo, and save the generated svg file.
+In the command-line use 'node js' The application prompts the user to select a color and shape, provide text for the logo, and save the generated svg file.
 
 Demonstration of app
 https://www.loom.com/share/ea56ad959c364289ba3023048b40c8c3
@@ -35,7 +35,9 @@ MIT
 None
 
 ## Tests
-None
+Will require Jest for running the unit tests. The application test will be invoked by using the following command:
+
+npm test
 
 ## Contact Information
 Github Username: https://github.com/Vin7ag3
